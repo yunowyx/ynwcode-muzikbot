@@ -1,0 +1,11 @@
+{
+  "name": "ynwcode",
+  "version": "0.0.1",
+  "main": "ynwcode.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Y N W",
+  "license": "MIT",
+  "description": ""
+}
